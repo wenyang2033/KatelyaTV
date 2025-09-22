@@ -1,89 +1,161 @@
 {
   "cache_time": 7200,
   "api_site": {
-    "dyttzy": {
-      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
-      "name": "电影天堂资源",
-      "detail": "http://caiji.dyttzyapi.com"
+    "fantaiying": {
+      "api": "http://www.饭太硬.com/tv",
+      "name": "饭太硬主接口"
     },
-    "heimuer": {
-      "api": "https://json.heimuer.xyz/api.php/provide/vod",
-      "name": "黑木耳",
-      "detail": "https://heimuer.tv"
+    "ok321": {
+      "api": "http://ok321.top/ok",
+      "name": "OK线路"
     },
-    "ruyi": {
-      "api": "https://cj.rycjapi.com/api.php/provide/vod",
-      "name": "如意资源"
+    "pyramid": {
+      "api": "https://999740.xyz/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
+      "name": "霜辉月明 Py"
     },
-    "bfzy": {
-      "api": "https://bfzyapi.com/api.php/provide/vod",
-      "name": "暴风资源"
+    "xiaomi": {
+      "api": "http://xhww.fun/小米/DEMO.json",
+      "name": "小米小爆脾气"
     },
-    "tyyszy": {
-      "api": "https://tyyszy.com/api.php/provide/vod",
-      "name": "天涯资源"
+    "nanfeng": {
+      "api": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+      "name": "南风接口"
     },
-    "ffzy": {
-      "api": "http://ffzy5.tv/api.php/provide/vod",
-      "name": "非凡影视",
-      "detail": "http://ffzy5.tv"
+    "pandown": {
+      "api": "http://pandown.pro/tvbox/tvbox.json",
+      "name": "巧技"
     },
-    "zy360": {
-      "api": "https://360zy.com/api.php/provide/vod",
-      "name": "360资源"
+    "jzy": {
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hackyjso/box/main/jzy.txt",
+      "name": "橘子柚 JZY"
     },
-    "maotaizy": {
-      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
-      "name": "茅台资源"
+    "jsm": {
+      "api": "https://qist.ugigc.dpdns.org/jsm.json",
+      "name": "Qist JSM"
     },
-    "wolong": {
-      "api": "https://wolongzyw.com/api.php/provide/vod",
-      "name": "卧龙资源"
+    "xiaosa": {
+      "api": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json",
+      "name": "潇洒接口"
     },
-    "jisu": {
-      "api": "https://jszyapi.com/api.php/provide/vod",
-      "name": "极速资源",
-      "detail": "https://jszyapi.com"
+    "tw": {
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/vcloudc/tvbox/main/tw/api.json",
+      "name": "天微科技 TW"
     },
-    "dbzy": {
-      "api": "https://dbzy.tv/api.php/provide/vod",
-      "name": "豆瓣资源"
+    "aptv": {
+      "api": "https://gh.aptv.app/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+      "name": "南风代理 APTV"
     },
-    "mozhua": {
-      "api": "https://mozhuazy.com/api.php/provide/vod",
-      "name": "魔爪资源"
+    "ymshaoer": {
+      "api": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
+      "name": "少儿频道"
     },
-    "mdzy": {
-      "api": "https://www.mdzyapi.com/api.php/provide/vod",
-      "name": "魔都资源"
+    "jinenge8": {
+      "api": "https://jinenge.cn/8.json",
+      "name": "Jinenge 8"
     },
-    "zuid": {
-      "api": "https://api.zuidapi.com/api.php/provide/vod",
-      "name": "最大资源"
+    "jinenge9": {
+      "api": "https://jinenge.cn/9.json",
+      "name": "Jinenge 9"
     },
-    "yinghua": {
-      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
-      "name": "樱花资源"
+    "jinenge10": {
+      "api": "https://jinenge.cn/10.json",
+      "name": "Jinenge 10"
     },
-    "wujin": {
-      "api": "https://api.wujinapi.me/api.php/provide/vod",
-      "name": "无尽资源"
+    "jinenge11": {
+      "api": "https://jinenge.cn/11.json",
+      "name": "Jinenge 11"
     },
-    "wwzy": {
-      "api": "https://wwzy.tv/api.php/provide/vod",
-      "name": "旺旺短剧"
+    "jinenge12": {
+      "api": "https://jinenge.cn/12.json",
+      "name": "Jinenge 12"
     },
-    "ikun": {
-      "api": "https://ikunzyapi.com/api.php/provide/vod",
-      "name": "iKun资源"
+    "jinenge13": {
+      "api": "https://jinenge.cn/13.json",
+      "name": "Jinenge 13"
     },
-    "lzi": {
-      "api": "https://cj.lziapi.com/api.php/provide/vod",
-      "name": "量子资源站"
+    "acwing": {
+      "api": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",
+      "name": "网盘线路 Acwing"
     },
-    "xiaomaomi": {
-      "api": "https://zy.xmm.hk/api.php/provide/vod",
-      "name": "小猫咪资源"
+    "bitbucket": {
+      "api": "https://bitbucket.org/xduo/libs/raw/master/index.json",
+      "name": "Bitbucket Index"
+    },
+    "feimao": {
+      "api": "http://肥猫.com",
+      "name": "肥猫"
+    },
+    "ok321_tv": {
+      "api": "http://ok321.top/tv",
+      "name": "OK TV"
+    },
+    "cyao_n": {
+      "api": "https://cyao2q.github.io/files/n.json",
+      "name": "Cyao N"
+    },
+    "cyao_m": {
+      "api": "https://ghcy.eu.org/https://raw.githubusercontent.com/cyao2q/files/master/m.json",
+      "name": "Cyao M"
+    },
+    "hongniu": {
+      "api": "http://hongniuzy2.com/api.php/provide/vod/from/hnm3u8",
+      "name": "红牛资源",
+      "detail": "V10 API"
+    },
+    "lzm3u8": {
+      "api": "http://cj.lziapi.com/api.php/provide/vod/from/lzm3u8",
+      "name": "量子资源",
+      "detail": "V10 API"
+    },
+    "opendemo": {
+      "api": "http://vod-demo.onrender.com/pubdovod.php",
+      "name": "开放电影",
+      "detail": "V10 API"
+    },
+    "1080zyku": {
+      "api": "http://api.1080zyku.com/inc/api.php/provide/vod",
+      "name": "优质资源库",
+      "detail": "V10 API"
+    },
+    "39kan": {
+      "api": "http://39kan.com/api.php/provide/vod",
+      "name": "39影视",
+      "detail": "V10 API"
+    },
+    "vipmv": {
+      "api": "http://vipmv.cc/api.php/provide/vod",
+      "name": "天堂资源",
+      "detail": "V10 API"
+    },
+    "lehootv": {
+      "api": "http://lehootv.com/api.php/provide/vod",
+      "name": "乐活影视",
+      "detail": "V10 API"
+    },
+    "tangrenjie": {
+      "api": "http://tangrenjie.tv/api.php/provide/vod",
+      "name": "唐人街",
+      "detail": "V10 API"
+    },
+    "yparse": {
+      "api": "https://yparse.ik9.cc/index.php?url=",
+      "name": "YParse",
+      "detail": "解析接口"
+    },
+    "jx_m3u8": {
+      "api": "https://jx.m3u8.tv/jiexi/?url=",
+      "name": "JX M3U8",
+      "detail": "解析接口"
+    },
+    "jx_82": {
+      "api": "http://82.156.40.118:1234/jx/?url=",
+      "name": "JX 82",
+      "detail": "解析接口"
+    },
+    "jx_oftens": {
+      "api": "https://jx.oftens.top/player/?url=",
+      "name": "JX Oftens",
+      "detail": "解析接口"
     }
   }
 }
